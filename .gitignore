@@ -1,3 +1,5 @@
 .venv
 PlanScore_CLI.egg-info
 planscore_cli/__pycache__
+build
+dist
