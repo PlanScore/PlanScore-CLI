@@ -17,7 +17,7 @@ Score a single plan:
 
 See [API Sample Request](https://github.com/PlanScore/PlanScore/blob/main/API.md#sample-request)
 for details on input GeoJSON formating,
-[API Sample Response](https://github.com/PlanScore/PlanScore/blob/main/API.md#sample-response)
+[API Sample Response `index_url`](https://github.com/PlanScore/PlanScore/blob/main/API.md#sample-response)
 for details on output JSON content.
 Please contact [info@planscore.org](mailto:info@planscore.org) to request an API token.
 
