@@ -16,22 +16,28 @@ Score a single plan:
     planscore-client <API token> <Input GeoJSON> <Output JSON>
 
 See [API Sample Request](https://github.com/PlanScore/PlanScore/blob/main/API.md#sample-request)
-for details on input GeoJSON formating.
-See [API Sample Response](https://github.com/PlanScore/PlanScore/blob/main/API.md#sample-response)
+for details on input GeoJSON formating,
+[API Sample Response](https://github.com/PlanScore/PlanScore/blob/main/API.md#sample-response)
 for details on output JSON content.
+Please contact [info@planscore.org](mailto:info@planscore.org) to request an API token.
 
 ## Advanced Use
 
 Score many plans in parallel with
-[GNU Parallel](https://www.gnu.org/software/parallel/).
+[GNU Parallel](https://www.gnu.org/software/parallel/)
+([documentation](https://www.gnu.org/software/parallel/parallel_tutorial.html)).
 Example plans in `ok-example` have been exported from
 [Dave’s Redistricting App](https://davesredistricting.org/)
 samples linked from
 [Oklahoma Senate Redistricting Page](https://oksenate.gov/redistricting)
-on April 27, 2021:
+on April 27, 2021.
 
-    parallel -j9 planscore-client <API token> '{}' '{//}/score-{/.}.json' \
+    parallel planscore-client <API token> '{}' '{//}/score-{/.}.json' \
         ::: `ls -1 ok-example/*geojson`
+
+The command above will generate `ok-example/score-*` files such as
+[this one](ok-example/score-district-shapes-5.json). Each score will also
+be visible as a public PlanScore result page like the ones below.
 
 - [Public map submission 1](https://davesredistricting.org/join/a2e3fded-03e3-4bca-86c4-379292dfe868) → [PlanScore result 1](https://planscore.org/plan.html?20210427T184121.456477833Z)
 - [Public map submission 2](https://davesredistricting.org/join/31484a7b-7e07-47c5-bc10-71072d146ed3) → [PlanScore result 2](https://planscore.org/plan.html?20210427T184121.544097162Z)
