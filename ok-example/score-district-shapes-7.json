@@ -1,0 +1,1353 @@
+{
+  "commit_sha": "5e261e445637a37d0972929a1665a1f0ba5e4d22",
+  "description": "plan.geojson",
+  "districts": [
+    {
+      "compactness": {
+        "Polsby-Popper": 0.5955,
+        "Reock": 0.5552
+      },
+      "totals": {
+        "Black Population 2018": 1547.11,
+        "Black Population 2018, Margin": 1302.64,
+        "Citizen Voting-Age Population 2018": 62511.01,
+        "Citizen Voting-Age Population 2018, Margin": 7937.52,
+        "Democratic Votes": 10752.94,
+        "Democratic Votes SD": 1657.03,
+        "Democratic Wins": 0.009,
+        "High School or GED 2018": 20415.41,
+        "High School or GED 2018, Margin": 6126.32,
+        "Hispanic Population 2018": 3480.11,
+        "Hispanic Population 2018, Margin": 2379.11,
+        "Population 2010": 81819.0,
+        "Population 2018": 81333.11,
+        "Population 2018, Margin": 10673.82,
+        "Republican Votes": 17777.14,
+        "Republican Votes SD": 1657.03,
+        "US President 2016 - DEM": 6785.86,
+        "US President 2016 - REP": 22178.85
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.4893,
+        "Reock": 0.6395
+      },
+      "totals": {
+        "Black Population 2018": 1340.45,
+        "Black Population 2018, Margin": 1322.08,
+        "Citizen Voting-Age Population 2018": 61504.74,
+        "Citizen Voting-Age Population 2018, Margin": 7375.38,
+        "Democratic Votes": 10469.51,
+        "Democratic Votes SD": 1711.51,
+        "Democratic Wins": 0.021,
+        "High School or GED 2018": 20239.14,
+        "High School or GED 2018, Margin": 6278.98,
+        "Hispanic Population 2018": 3493.07,
+        "Hispanic Population 2018, Margin": 2615.17,
+        "Population 2010": 80709.0,
+        "Population 2018": 81760.02,
+        "Population 2018, Margin": 10337.78,
+        "Republican Votes": 18060.56,
+        "Republican Votes SD": 1711.51,
+        "US President 2016 - DEM": 7023.14,
+        "US President 2016 - REP": 25396.17
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.573,
+        "Reock": 0.609
+      },
+      "totals": {
+        "Black Population 2018": 1695.35,
+        "Black Population 2018, Margin": 1675.66,
+        "Citizen Voting-Age Population 2018": 60303.72,
+        "Citizen Voting-Age Population 2018, Margin": 9836.99,
+        "Democratic Votes": 12057.48,
+        "Democratic Votes SD": 1623.45,
+        "Democratic Wins": 0.078,
+        "High School or GED 2018": 19170.28,
+        "High School or GED 2018, Margin": 6790.63,
+        "Hispanic Population 2018": 5369.2,
+        "Hispanic Population 2018, Margin": 4096.72,
+        "Population 2010": 80471.0,
+        "Population 2018": 81353.52,
+        "Population 2018, Margin": 13604.38,
+        "Republican Votes": 16472.6,
+        "Republican Votes SD": 1623.45,
+        "US President 2016 - DEM": 7581.43,
+        "US President 2016 - REP": 17463.13
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3846,
+        "Reock": 0.4795
+      },
+      "totals": {
+        "Black Population 2018": 2512.36,
+        "Black Population 2018, Margin": 1864.2,
+        "Citizen Voting-Age Population 2018": 61611.64,
+        "Citizen Voting-Age Population 2018, Margin": 8579.84,
+        "Democratic Votes": 10228.17,
+        "Democratic Votes SD": 1763.29,
+        "Democratic Wins": 0.011,
+        "High School or GED 2018": 21966.59,
+        "High School or GED 2018, Margin": 7132.03,
+        "Hispanic Population 2018": 4141.8,
+        "Hispanic Population 2018, Margin": 2820.89,
+        "Population 2010": 82113.0,
+        "Population 2018": 82558.02,
+        "Population 2018, Margin": 11709.14,
+        "Republican Votes": 18301.91,
+        "Republican Votes SD": 1763.29,
+        "US President 2016 - DEM": 5778.12,
+        "US President 2016 - REP": 22040.51
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.2752,
+        "Reock": 0.4455
+      },
+      "totals": {
+        "Black Population 2018": 6615.96,
+        "Black Population 2018, Margin": 3634.3,
+        "Citizen Voting-Age Population 2018": 60852.17,
+        "Citizen Voting-Age Population 2018, Margin": 8526.22,
+        "Democratic Votes": 9648.78,
+        "Democratic Votes SD": 1738.83,
+        "Democratic Wins": 0.008,
+        "High School or GED 2018": 23141.03,
+        "High School or GED 2018, Margin": 7019.08,
+        "Hispanic Population 2018": 4447.43,
+        "Hispanic Population 2018, Margin": 3172.23,
+        "Population 2010": 84762.0,
+        "Population 2018": 81553.55,
+        "Population 2018, Margin": 12114.04,
+        "Republican Votes": 18881.3,
+        "Republican Votes SD": 1738.83,
+        "US President 2016 - DEM": 4941.46,
+        "US President 2016 - REP": 22734.58
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.2497,
+        "Reock": 0.5219
+      },
+      "totals": {
+        "Black Population 2018": 2082.95,
+        "Black Population 2018, Margin": 1766.89,
+        "Citizen Voting-Age Population 2018": 60386.68,
+        "Citizen Voting-Age Population 2018, Margin": 8409.82,
+        "Democratic Votes": 10087.68,
+        "Democratic Votes SD": 1767.97,
+        "Democratic Wins": 0.012,
+        "High School or GED 2018": 18591.07,
+        "High School or GED 2018, Margin": 6427.8,
+        "Hispanic Population 2018": 6403.04,
+        "Hispanic Population 2018, Margin": 3637.33,
+        "Population 2010": 77524.0,
+        "Population 2018": 81151.23,
+        "Population 2018, Margin": 11832.09,
+        "Republican Votes": 18442.39,
+        "Republican Votes SD": 1767.97,
+        "US President 2016 - DEM": 5260.44,
+        "US President 2016 - REP": 20459.5
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3584,
+        "Reock": 0.5157
+      },
+      "totals": {
+        "Black Population 2018": 3346.73,
+        "Black Population 2018, Margin": 2703.78,
+        "Citizen Voting-Age Population 2018": 62830.11,
+        "Citizen Voting-Age Population 2018, Margin": 9115.75,
+        "Democratic Votes": 10602.01,
+        "Democratic Votes SD": 1723.27,
+        "Democratic Wins": 0.016,
+        "High School or GED 2018": 21742.12,
+        "High School or GED 2018, Margin": 7277.96,
+        "Hispanic Population 2018": 3667.13,
+        "Hispanic Population 2018, Margin": 2931.07,
+        "Population 2010": 83566.0,
+        "Population 2018": 82162.8,
+        "Population 2018, Margin": 12718.14,
+        "Republican Votes": 17928.07,
+        "Republican Votes SD": 1723.27,
+        "US President 2016 - DEM": 6630.91,
+        "US President 2016 - REP": 22831.3
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.2774,
+        "Reock": 0.5587
+      },
+      "totals": {
+        "Black Population 2018": 4972.81,
+        "Black Population 2018, Margin": 3050.51,
+        "Citizen Voting-Age Population 2018": 61289.44,
+        "Citizen Voting-Age Population 2018, Margin": 9005.08,
+        "Democratic Votes": 11143.83,
+        "Democratic Votes SD": 1708.71,
+        "Democratic Wins": 0.023,
+        "High School or GED 2018": 21786.35,
+        "High School or GED 2018, Margin": 7056.09,
+        "Hispanic Population 2018": 2989.98,
+        "Hispanic Population 2018, Margin": 2509.56,
+        "Population 2010": 82719.0,
+        "Population 2018": 80756.65,
+        "Population 2018, Margin": 12529.75,
+        "Republican Votes": 17386.25,
+        "Republican Votes SD": 1708.71,
+        "US President 2016 - DEM": 7303.3,
+        "US President 2016 - REP": 21705.34
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3879,
+        "Reock": 0.3736
+      },
+      "totals": {
+        "Black Population 2018": 12044.03,
+        "Black Population 2018, Margin": 6201.74,
+        "Citizen Voting-Age Population 2018": 60871.01,
+        "Citizen Voting-Age Population 2018, Margin": 10514.9,
+        "Democratic Votes": 13243.23,
+        "Democratic Votes SD": 1568.68,
+        "Democratic Wins": 0.249,
+        "High School or GED 2018": 19320.14,
+        "High School or GED 2018, Margin": 8071.66,
+        "Hispanic Population 2018": 4829.64,
+        "Hispanic Population 2018, Margin": 4343.65,
+        "Population 2010": 84375.0,
+        "Population 2018": 82032.38,
+        "Population 2018, Margin": 15317.41,
+        "Republican Votes": 15286.84,
+        "Republican Votes SD": 1568.68,
+        "US President 2016 - DEM": 9943.73,
+        "US President 2016 - REP": 17401.79
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.5628,
+        "Reock": 0.7199
+      },
+      "totals": {
+        "Black Population 2018": 2522.55,
+        "Black Population 2018, Margin": 2252.84,
+        "Citizen Voting-Age Population 2018": 61462.83,
+        "Citizen Voting-Age Population 2018, Margin": 8224.78,
+        "Democratic Votes": 10714.83,
+        "Democratic Votes SD": 1647.43,
+        "Democratic Wins": 0.021,
+        "High School or GED 2018": 21050.95,
+        "High School or GED 2018, Margin": 6770.58,
+        "Hispanic Population 2018": 4172.03,
+        "Hispanic Population 2018, Margin": 3283.2,
+        "Population 2010": 83538.0,
+        "Population 2018": 81492.0,
+        "Population 2018, Margin": 11633.1,
+        "Republican Votes": 17815.24,
+        "Republican Votes SD": 1647.43,
+        "US President 2016 - DEM": 7114.31,
+        "US President 2016 - REP": 23199.19
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3375,
+        "Reock": 0.3668
+      },
+      "totals": {
+        "Black Population 2018": 33211.35,
+        "Black Population 2018, Margin": 8271.24,
+        "Citizen Voting-Age Population 2018": 50548.06,
+        "Citizen Voting-Age Population 2018, Margin": 7714.97,
+        "Democratic Votes": 19975.27,
+        "Democratic Votes SD": 1577.22,
+        "Democratic Wins": 1.0,
+        "High School or GED 2018": 17829.66,
+        "High School or GED 2018, Margin": 6112.51,
+        "Hispanic Population 2018": 17488.24,
+        "Hispanic Population 2018, Margin": 6989.69,
+        "Population 2010": 80875.0,
+        "Population 2018": 81647.56,
+        "Population 2018, Margin": 12152.57,
+        "Republican Votes": 8554.8,
+        "Republican Votes SD": 1577.22,
+        "US President 2016 - DEM": 14281.48,
+        "US President 2016 - REP": 6053.12
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3228,
+        "Reock": 0.3447
+      },
+      "totals": {
+        "Black Population 2018": 2488.02,
+        "Black Population 2018, Margin": 2265.07,
+        "Citizen Voting-Age Population 2018": 62072.1,
+        "Citizen Voting-Age Population 2018, Margin": 7003.74,
+        "Democratic Votes": 10409.38,
+        "Democratic Votes SD": 1721.51,
+        "Democratic Wins": 0.016,
+        "High School or GED 2018": 20048.71,
+        "High School or GED 2018, Margin": 5948.58,
+        "Hispanic Population 2018": 3457.45,
+        "Hispanic Population 2018, Margin": 2819.01,
+        "Population 2010": 76407.0,
+        "Population 2018": 84140.64,
+        "Population 2018, Margin": 10198.68,
+        "Republican Votes": 18120.7,
+        "Republican Votes SD": 1721.51,
+        "US President 2016 - DEM": 6741.99,
+        "US President 2016 - REP": 24546.45
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3051,
+        "Reock": 0.4823
+      },
+      "totals": {
+        "Black Population 2018": 2983.89,
+        "Black Population 2018, Margin": 2597.27,
+        "Citizen Voting-Age Population 2018": 61059.74,
+        "Citizen Voting-Age Population 2018, Margin": 9356.45,
+        "Democratic Votes": 10519.69,
+        "Democratic Votes SD": 1714.85,
+        "Democratic Wins": 0.015,
+        "High School or GED 2018": 20754.59,
+        "High School or GED 2018, Margin": 7416.43,
+        "Hispanic Population 2018": 5362.8,
+        "Hispanic Population 2018, Margin": 4152.32,
+        "Population 2010": 81178.0,
+        "Population 2018": 82420.59,
+        "Population 2018, Margin": 13366.82,
+        "Republican Votes": 18010.38,
+        "Republican Votes SD": 1714.85,
+        "US President 2016 - DEM": 6743.33,
+        "US President 2016 - REP": 23251.48
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.2201,
+        "Reock": 0.3711
+      },
+      "totals": {
+        "Black Population 2018": 5834.9,
+        "Black Population 2018, Margin": 3560.68,
+        "Citizen Voting-Age Population 2018": 63415.66,
+        "Citizen Voting-Age Population 2018, Margin": 10181.59,
+        "Democratic Votes": 10246.0,
+        "Democratic Votes SD": 1738.89,
+        "Democratic Wins": 0.017,
+        "High School or GED 2018": 22545.96,
+        "High School or GED 2018, Margin": 7954.54,
+        "Hispanic Population 2018": 7179.4,
+        "Hispanic Population 2018, Margin": 4659.74,
+        "Population 2010": 80896.0,
+        "Population 2018": 85584.62,
+        "Population 2018, Margin": 14430.56,
+        "Republican Votes": 18284.07,
+        "Republican Votes SD": 1738.89,
+        "US President 2016 - DEM": 6296.88,
+        "US President 2016 - REP": 24273.23
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.337,
+        "Reock": 0.4549
+      },
+      "totals": {
+        "Black Population 2018": 3165.47,
+        "Black Population 2018, Margin": 2779.66,
+        "Citizen Voting-Age Population 2018": 61494.96,
+        "Citizen Voting-Age Population 2018, Margin": 11439.07,
+        "Democratic Votes": 12720.83,
+        "Democratic Votes SD": 1576.0,
+        "Democratic Wins": 0.159,
+        "High School or GED 2018": 14917.78,
+        "High School or GED 2018, Margin": 7254.52,
+        "Hispanic Population 2018": 4292.02,
+        "Hispanic Population 2018, Margin": 3895.23,
+        "Population 2010": 74389.0,
+        "Population 2018": 81908.9,
+        "Population 2018, Margin": 15896.83,
+        "Republican Votes": 15809.24,
+        "Republican Votes SD": 1576.01,
+        "US President 2016 - DEM": 11121.53,
+        "US President 2016 - REP": 22172.29
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.5555,
+        "Reock": 0.604
+      },
+      "totals": {
+        "Black Population 2018": 7142.1,
+        "Black Population 2018, Margin": 6585.56,
+        "Citizen Voting-Age Population 2018": 63598.54,
+        "Citizen Voting-Age Population 2018, Margin": 15660.9,
+        "Democratic Votes": 17595.72,
+        "Democratic Votes SD": 1439.1,
+        "Democratic Wins": 0.989,
+        "High School or GED 2018": 9554.38,
+        "High School or GED 2018, Margin": 6889.19,
+        "Hispanic Population 2018": 7671.84,
+        "Hispanic Population 2018, Margin": 6200.09,
+        "Population 2010": 77683.0,
+        "Population 2018": 81729.06,
+        "Population 2018, Margin": 20522.83,
+        "Republican Votes": 10934.35,
+        "Republican Votes SD": 1439.1,
+        "US President 2016 - DEM": 15268.26,
+        "US President 2016 - REP": 10897.26
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.5022,
+        "Reock": 0.5091
+      },
+      "totals": {
+        "Black Population 2018": 3183.94,
+        "Black Population 2018, Margin": 2555.56,
+        "Citizen Voting-Age Population 2018": 61819.51,
+        "Citizen Voting-Age Population 2018, Margin": 8437.41,
+        "Democratic Votes": 10108.85,
+        "Democratic Votes SD": 1749.94,
+        "Democratic Wins": 0.007,
+        "High School or GED 2018": 19870.36,
+        "High School or GED 2018, Margin": 6567.48,
+        "Hispanic Population 2018": 3123.22,
+        "Hispanic Population 2018, Margin": 2798.97,
+        "Population 2010": 76007.0,
+        "Population 2018": 82513.08,
+        "Population 2018, Margin": 12036.71,
+        "Republican Votes": 18421.23,
+        "Republican Votes SD": 1749.94,
+        "US President 2016 - DEM": 6863.76,
+        "US President 2016 - REP": 26970.02
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.4403,
+        "Reock": 0.5382
+      },
+      "totals": {
+        "Black Population 2018": 3921.44,
+        "Black Population 2018, Margin": 2515.16,
+        "Citizen Voting-Age Population 2018": 59823.13,
+        "Citizen Voting-Age Population 2018, Margin": 6034.0,
+        "Democratic Votes": 10539.81,
+        "Democratic Votes SD": 1683.14,
+        "Democratic Wins": 0.014,
+        "High School or GED 2018": 17885.05,
+        "High School or GED 2018, Margin": 5136.31,
+        "Hispanic Population 2018": 5034.38,
+        "Hispanic Population 2018, Margin": 2466.34,
+        "Population 2010": 75984.0,
+        "Population 2018": 81575.73,
+        "Population 2018, Margin": 8717.37,
+        "Republican Votes": 17990.26,
+        "Republican Votes SD": 1683.14,
+        "US President 2016 - DEM": 7040.83,
+        "US President 2016 - REP": 23808.93
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.5103,
+        "Reock": 0.4271
+      },
+      "totals": {
+        "Black Population 2018": 4288.82,
+        "Black Population 2018, Margin": 4256.85,
+        "Citizen Voting-Age Population 2018": 58662.62,
+        "Citizen Voting-Age Population 2018, Margin": 11973.04,
+        "Democratic Votes": 10153.91,
+        "Democratic Votes SD": 1743.33,
+        "Democratic Wins": 0.013,
+        "High School or GED 2018": 19556.92,
+        "High School or GED 2018, Margin": 8526.57,
+        "Hispanic Population 2018": 8750.18,
+        "Hispanic Population 2018, Margin": 6635.02,
+        "Population 2010": 80954.0,
+        "Population 2018": 82206.5,
+        "Population 2018, Margin": 18307.36,
+        "Republican Votes": 18376.17,
+        "Republican Votes SD": 1743.33,
+        "US President 2016 - DEM": 5704.69,
+        "US President 2016 - REP": 22182.31
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3065,
+        "Reock": 0.3238
+      },
+      "totals": {
+        "Black Population 2018": 5478.71,
+        "Black Population 2018, Margin": 4358.35,
+        "Citizen Voting-Age Population 2018": 59416.16,
+        "Citizen Voting-Age Population 2018, Margin": 12750.82,
+        "Democratic Votes": 10166.15,
+        "Democratic Votes SD": 1722.52,
+        "Democratic Wins": 0.009,
+        "High School or GED 2018": 18537.04,
+        "High School or GED 2018, Margin": 8539.66,
+        "Hispanic Population 2018": 6573.66,
+        "Hispanic Population 2018, Margin": 5021.61,
+        "Population 2010": 79137.0,
+        "Population 2018": 81249.92,
+        "Population 2018, Margin": 17820.84,
+        "Republican Votes": 18363.93,
+        "Republican Votes SD": 1722.52,
+        "US President 2016 - DEM": 6532.6,
+        "US President 2016 - REP": 25077.48
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.5488,
+        "Reock": 0.4652
+      },
+      "totals": {
+        "Black Population 2018": 3976.31,
+        "Black Population 2018, Margin": 3309.32,
+        "Citizen Voting-Age Population 2018": 61538.88,
+        "Citizen Voting-Age Population 2018, Margin": 12989.5,
+        "Democratic Votes": 13009.42,
+        "Democratic Votes SD": 1541.98,
+        "Democratic Wins": 0.192,
+        "High School or GED 2018": 11816.8,
+        "High School or GED 2018, Margin": 5992.66,
+        "Hispanic Population 2018": 3819.6,
+        "Hispanic Population 2018, Margin": 3672.17,
+        "Population 2010": 77350.0,
+        "Population 2018": 81512.0,
+        "Population 2018, Margin": 17700.86,
+        "Republican Votes": 15520.65,
+        "Republican Votes SD": 1541.98,
+        "US President 2016 - DEM": 8787.52,
+        "US President 2016 - REP": 16650.92
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.6393,
+        "Reock": 0.5577
+      },
+      "totals": {
+        "Black Population 2018": 8570.83,
+        "Black Population 2018, Margin": 4449.62,
+        "Citizen Voting-Age Population 2018": 53926.27,
+        "Citizen Voting-Age Population 2018, Margin": 7987.81,
+        "Democratic Votes": 12969.04,
+        "Democratic Votes SD": 1583.14,
+        "Democratic Wins": 0.195,
+        "High School or GED 2018": 6804.45,
+        "High School or GED 2018, Margin": 3957.82,
+        "Hispanic Population 2018": 4968.61,
+        "Hispanic Population 2018, Margin": 3882.64,
+        "Population 2010": 60091.0,
+        "Population 2018": 80620.73,
+        "Population 2018, Margin": 12762.5,
+        "Republican Votes": 15561.04,
+        "Republican Votes SD": 1583.14,
+        "US President 2016 - DEM": 10532.98,
+        "US President 2016 - REP": 19735.81
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.541,
+        "Reock": 0.5018
+      },
+      "totals": {
+        "Black Population 2018": 3955.63,
+        "Black Population 2018, Margin": 3077.73,
+        "Citizen Voting-Age Population 2018": 57763.11,
+        "Citizen Voting-Age Population 2018, Margin": 12111.96,
+        "Democratic Votes": 10659.48,
+        "Democratic Votes SD": 1684.14,
+        "Democratic Wins": 0.017,
+        "High School or GED 2018": 15814.23,
+        "High School or GED 2018, Margin": 8227.06,
+        "Hispanic Population 2018": 8000.72,
+        "Hispanic Population 2018, Margin": 5826.16,
+        "Population 2010": 68177.0,
+        "Population 2018": 81174.47,
+        "Population 2018, Margin": 17347.01,
+        "Republican Votes": 17870.6,
+        "Republican Votes SD": 1684.14,
+        "US President 2016 - DEM": 6759.04,
+        "US President 2016 - REP": 22581.15
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.5743,
+        "Reock": 0.5391
+      },
+      "totals": {
+        "Black Population 2018": 5565.67,
+        "Black Population 2018, Margin": 4528.51,
+        "Citizen Voting-Age Population 2018": 58346.75,
+        "Citizen Voting-Age Population 2018, Margin": 11374.49,
+        "Democratic Votes": 12073.76,
+        "Democratic Votes SD": 1660.56,
+        "Democratic Wins": 0.09,
+        "High School or GED 2018": 15011.14,
+        "High School or GED 2018, Margin": 7476.74,
+        "Hispanic Population 2018": 8756.08,
+        "Hispanic Population 2018, Margin": 6496.95,
+        "Population 2010": 73390.0,
+        "Population 2018": 79817.63,
+        "Population 2018, Margin": 16086.22,
+        "Republican Votes": 16456.32,
+        "Republican Votes SD": 1660.56,
+        "US President 2016 - DEM": 8006.58,
+        "US President 2016 - REP": 18624.98
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3006,
+        "Reock": 0.4353
+      },
+      "totals": {
+        "Black Population 2018": 4823.58,
+        "Black Population 2018, Margin": 3003.79,
+        "Citizen Voting-Age Population 2018": 59226.02,
+        "Citizen Voting-Age Population 2018, Margin": 5817.26,
+        "Democratic Votes": 11634.42,
+        "Democratic Votes SD": 1642.43,
+        "Democratic Wins": 0.04,
+        "High School or GED 2018": 8875.17,
+        "High School or GED 2018, Margin": 3766.56,
+        "Hispanic Population 2018": 5047.95,
+        "Hispanic Population 2018, Margin": 3347.31,
+        "Population 2010": 74673.0,
+        "Population 2018": 81684.7,
+        "Population 2018, Margin": 8492.56,
+        "Republican Votes": 16895.66,
+        "Republican Votes SD": 1642.43,
+        "US President 2016 - DEM": 9963.86,
+        "US President 2016 - REP": 25262.4
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.4876,
+        "Reock": 0.5546
+      },
+      "totals": {
+        "Black Population 2018": 2721.66,
+        "Black Population 2018, Margin": 2516.18,
+        "Citizen Voting-Age Population 2018": 58825.92,
+        "Citizen Voting-Age Population 2018, Margin": 11309.38,
+        "Democratic Votes": 10232.63,
+        "Democratic Votes SD": 1667.79,
+        "Democratic Wins": 0.005,
+        "High School or GED 2018": 19430.05,
+        "High School or GED 2018, Margin": 7446.44,
+        "Hispanic Population 2018": 10725.7,
+        "Hispanic Population 2018, Margin": 6971.92,
+        "Population 2010": 79247.0,
+        "Population 2018": 82264.93,
+        "Population 2018, Margin": 16326.69,
+        "Republican Votes": 18297.44,
+        "Republican Votes SD": 1667.79,
+        "US President 2016 - DEM": 5826.95,
+        "US President 2016 - REP": 21724.12
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.2938,
+        "Reock": 0.2003
+      },
+      "totals": {
+        "Black Population 2018": 2412.11,
+        "Black Population 2018, Margin": 2457.55,
+        "Citizen Voting-Age Population 2018": 54266.5,
+        "Citizen Voting-Age Population 2018, Margin": 11253.8,
+        "Democratic Votes": 8505.96,
+        "Democratic Votes SD": 1867.9,
+        "Democratic Wins": 0.004,
+        "High School or GED 2018": 18436.1,
+        "High School or GED 2018, Margin": 7923.8,
+        "Hispanic Population 2018": 16823.44,
+        "Hispanic Population 2018, Margin": 9240.17,
+        "Population 2010": 79374.0,
+        "Population 2018": 81154.36,
+        "Population 2018, Margin": 18053.11,
+        "Republican Votes": 20024.11,
+        "Republican Votes SD": 1867.9,
+        "US President 2016 - DEM": 3374.57,
+        "US President 2016 - REP": 25030.16
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3788,
+        "Reock": 0.5132
+      },
+      "totals": {
+        "Black Population 2018": 3768.89,
+        "Black Population 2018, Margin": 2839.81,
+        "Citizen Voting-Age Population 2018": 61448.56,
+        "Citizen Voting-Age Population 2018, Margin": 8426.81,
+        "Democratic Votes": 11152.02,
+        "Democratic Votes SD": 1622.6,
+        "Democratic Wins": 0.027,
+        "High School or GED 2018": 19346.48,
+        "High School or GED 2018, Margin": 6637.53,
+        "Hispanic Population 2018": 4235.15,
+        "Hispanic Population 2018, Margin": 3319.49,
+        "Population 2010": 80001.0,
+        "Population 2018": 82357.19,
+        "Population 2018, Margin": 11782.93,
+        "Republican Votes": 17378.06,
+        "Republican Votes SD": 1622.6,
+        "US President 2016 - DEM": 6894.4,
+        "US President 2016 - REP": 20013.56
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.5843,
+        "Reock": 0.636
+      },
+      "totals": {
+        "Black Population 2018": 2605.94,
+        "Black Population 2018, Margin": 2163.24,
+        "Citizen Voting-Age Population 2018": 60979.65,
+        "Citizen Voting-Age Population 2018, Margin": 8442.94,
+        "Democratic Votes": 10500.5,
+        "Democratic Votes SD": 1707.76,
+        "Democratic Wins": 0.017,
+        "High School or GED 2018": 20237.25,
+        "High School or GED 2018, Margin": 6948.56,
+        "Hispanic Population 2018": 3989.81,
+        "Hispanic Population 2018, Margin": 3238.93,
+        "Population 2010": 80224.0,
+        "Population 2018": 82416.79,
+        "Population 2018, Margin": 12300.13,
+        "Republican Votes": 18029.58,
+        "Republican Votes SD": 1707.77,
+        "US President 2016 - DEM": 7292.45,
+        "US President 2016 - REP": 25682.19
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.6197,
+        "Reock": 0.5454
+      },
+      "totals": {
+        "Black Population 2018": 11406.89,
+        "Black Population 2018, Margin": 9015.22,
+        "Citizen Voting-Age Population 2018": 53162.88,
+        "Citizen Voting-Age Population 2018, Margin": 14052.77,
+        "Democratic Votes": 14141.31,
+        "Democratic Votes SD": 1540.33,
+        "Democratic Wins": 0.474,
+        "High School or GED 2018": 16281.2,
+        "High School or GED 2018, Margin": 9481.23,
+        "Hispanic Population 2018": 20376.27,
+        "Hispanic Population 2018, Margin": 14357.03,
+        "Population 2010": 79745.0,
+        "Population 2018": 81750.07,
+        "Population 2018, Margin": 23562.27,
+        "Republican Votes": 14388.77,
+        "Republican Votes SD": 1540.33,
+        "US President 2016 - DEM": 10319.83,
+        "US President 2016 - REP": 15069.53
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.339,
+        "Reock": 0.3886
+      },
+      "totals": {
+        "Black Population 2018": 5770.81,
+        "Black Population 2018, Margin": 3434.56,
+        "Citizen Voting-Age Population 2018": 63682.65,
+        "Citizen Voting-Age Population 2018, Margin": 9817.19,
+        "Democratic Votes": 10475.92,
+        "Democratic Votes SD": 1760.48,
+        "Democratic Wins": 0.017,
+        "High School or GED 2018": 19799.15,
+        "High School or GED 2018, Margin": 7077.51,
+        "Hispanic Population 2018": 8298.7,
+        "Hispanic Population 2018, Margin": 4898.56,
+        "Population 2010": 81885.0,
+        "Population 2018": 85343.8,
+        "Population 2018, Margin": 13474.42,
+        "Republican Votes": 18054.16,
+        "Republican Votes SD": 1760.49,
+        "US President 2016 - DEM": 6606.68,
+        "US President 2016 - REP": 23562.85
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.4359,
+        "Reock": 0.5509
+      },
+      "totals": {
+        "Black Population 2018": 20191.29,
+        "Black Population 2018, Margin": 11723.1,
+        "Citizen Voting-Age Population 2018": 55183.36,
+        "Citizen Voting-Age Population 2018, Margin": 13881.94,
+        "Democratic Votes": 15242.57,
+        "Democratic Votes SD": 1459.92,
+        "Democratic Wins": 0.749,
+        "High School or GED 2018": 15986.9,
+        "High School or GED 2018, Margin": 9044.15,
+        "Hispanic Population 2018": 9998.5,
+        "Hispanic Population 2018, Margin": 7300.78,
+        "Population 2010": 84808.0,
+        "Population 2018": 75523.5,
+        "Population 2018, Margin": 20181.93,
+        "Republican Votes": 13287.51,
+        "Republican Votes SD": 1459.93,
+        "US President 2016 - DEM": 7725.76,
+        "US President 2016 - REP": 9044.59
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3335,
+        "Reock": 0.4209
+      },
+      "totals": {
+        "Black Population 2018": 9886.84,
+        "Black Population 2018, Margin": 5141.78,
+        "Citizen Voting-Age Population 2018": 62162.29,
+        "Citizen Voting-Age Population 2018, Margin": 8750.8,
+        "Democratic Votes": 15204.4,
+        "Democratic Votes SD": 1566.85,
+        "Democratic Wins": 0.734,
+        "High School or GED 2018": 13444.62,
+        "High School or GED 2018, Margin": 6371.24,
+        "Hispanic Population 2018": 9329.11,
+        "Hispanic Population 2018, Margin": 5478.56,
+        "Population 2010": 78972.0,
+        "Population 2018": 82231.25,
+        "Population 2018, Margin": 12487.18,
+        "Republican Votes": 13325.68,
+        "Republican Votes SD": 1566.85,
+        "US President 2016 - DEM": 14724.5,
+        "US President 2016 - REP": 17311.45
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.4226,
+        "Reock": 0.3526
+      },
+      "totals": {
+        "Black Population 2018": 2364.9,
+        "Black Population 2018, Margin": 1878.53,
+        "Citizen Voting-Age Population 2018": 58540.68,
+        "Citizen Voting-Age Population 2018, Margin": 6118.2,
+        "Democratic Votes": 10496.48,
+        "Democratic Votes SD": 1732.02,
+        "Democratic Wins": 0.02,
+        "High School or GED 2018": 15375.98,
+        "High School or GED 2018, Margin": 5276.56,
+        "Hispanic Population 2018": 4436.2,
+        "Hispanic Population 2018, Margin": 3199.7,
+        "Population 2010": 71292.0,
+        "Population 2018": 80981.46,
+        "Population 2018, Margin": 9109.98,
+        "Republican Votes": 18033.59,
+        "Republican Votes SD": 1732.02,
+        "US President 2016 - DEM": 7651.47,
+        "US President 2016 - REP": 26515.64
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.4245,
+        "Reock": 0.2798
+      },
+      "totals": {
+        "Black Population 2018": 10121.11,
+        "Black Population 2018, Margin": 4870.74,
+        "Citizen Voting-Age Population 2018": 60268.04,
+        "Citizen Voting-Age Population 2018, Margin": 8133.47,
+        "Democratic Votes": 16510.87,
+        "Democratic Votes SD": 1485.9,
+        "Democratic Wins": 0.938,
+        "High School or GED 2018": 10705.6,
+        "High School or GED 2018, Margin": 5292.81,
+        "Hispanic Population 2018": 7571.13,
+        "Hispanic Population 2018, Margin": 4407.71,
+        "Population 2010": 83086.0,
+        "Population 2018": 81245.1,
+        "Population 2018, Margin": 11348.3,
+        "Republican Votes": 12019.2,
+        "Republican Votes SD": 1485.9,
+        "US President 2016 - DEM": 16111.13,
+        "US President 2016 - REP": 14625.47
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3991,
+        "Reock": 0.3544
+      },
+      "totals": {
+        "Black Population 2018": 5266.7,
+        "Black Population 2018, Margin": 3258.2,
+        "Citizen Voting-Age Population 2018": 56206.81,
+        "Citizen Voting-Age Population 2018, Margin": 6044.63,
+        "Democratic Votes": 11659.89,
+        "Democratic Votes SD": 1624.1,
+        "Democratic Wins": 0.059,
+        "High School or GED 2018": 12000.81,
+        "High School or GED 2018, Margin": 4637.87,
+        "Hispanic Population 2018": 5654.06,
+        "Hispanic Population 2018, Margin": 3650.94,
+        "Population 2010": 76023.0,
+        "Population 2018": 79684.57,
+        "Population 2018, Margin": 9002.44,
+        "Republican Votes": 16870.19,
+        "Republican Votes SD": 1624.1,
+        "US President 2016 - DEM": 9632.22,
+        "US President 2016 - REP": 24504.35
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3649,
+        "Reock": 0.3458
+      },
+      "totals": {
+        "Black Population 2018": 5644.07,
+        "Black Population 2018, Margin": 3188.33,
+        "Citizen Voting-Age Population 2018": 55349.16,
+        "Citizen Voting-Age Population 2018, Margin": 6686.84,
+        "Democratic Votes": 11979.88,
+        "Democratic Votes SD": 1621.9,
+        "Democratic Wins": 0.075,
+        "High School or GED 2018": 15259.72,
+        "High School or GED 2018, Margin": 5446.45,
+        "Hispanic Population 2018": 5219.67,
+        "Hispanic Population 2018, Margin": 3595.87,
+        "Population 2010": 74325.0,
+        "Population 2018": 78220.54,
+        "Population 2018, Margin": 9717.79,
+        "Republican Votes": 16550.19,
+        "Republican Votes SD": 1621.9,
+        "US President 2016 - DEM": 8832.77,
+        "US President 2016 - REP": 20425.23
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.2984,
+        "Reock": 0.2638
+      },
+      "totals": {
+        "Black Population 2018": 5398.95,
+        "Black Population 2018, Margin": 3941.49,
+        "Citizen Voting-Age Population 2018": 59170.81,
+        "Citizen Voting-Age Population 2018, Margin": 12514.74,
+        "Democratic Votes": 9550.61,
+        "Democratic Votes SD": 1740.41,
+        "Democratic Wins": 0.006,
+        "High School or GED 2018": 18214.47,
+        "High School or GED 2018, Margin": 8531.54,
+        "Hispanic Population 2018": 14332.48,
+        "Hispanic Population 2018, Margin": 8479.26,
+        "Population 2010": 82962.0,
+        "Population 2018": 80962.17,
+        "Population 2018, Margin": 17859.79,
+        "Republican Votes": 18979.47,
+        "Republican Votes SD": 1740.41,
+        "US President 2016 - DEM": 4705.53,
+        "US President 2016 - REP": 22168.38
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.5806,
+        "Reock": 0.6367
+      },
+      "totals": {
+        "Black Population 2018": 12214.25,
+        "Black Population 2018, Margin": 6128.58,
+        "Citizen Voting-Age Population 2018": 47412.43,
+        "Citizen Voting-Age Population 2018, Margin": 6700.76,
+        "Democratic Votes": 14495.21,
+        "Democratic Votes SD": 1533.9,
+        "Democratic Wins": 0.567,
+        "High School or GED 2018": 15775.36,
+        "High School or GED 2018, Margin": 5829.98,
+        "Hispanic Population 2018": 25733.56,
+        "Hispanic Population 2018, Margin": 8518.31,
+        "Population 2010": 76110.0,
+        "Population 2018": 83251.77,
+        "Population 2018, Margin": 11491.9,
+        "Republican Votes": 14034.87,
+        "Republican Votes SD": 1533.9,
+        "US President 2016 - DEM": 9093.59,
+        "US President 2016 - REP": 12333.52
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.4146,
+        "Reock": 0.4628
+      },
+      "totals": {
+        "Black Population 2018": 10466.48,
+        "Black Population 2018, Margin": 7956.37,
+        "Citizen Voting-Age Population 2018": 61596.03,
+        "Citizen Voting-Age Population 2018, Margin": 14664.88,
+        "Democratic Votes": 17781.55,
+        "Democratic Votes SD": 1495.21,
+        "Democratic Wins": 0.989,
+        "High School or GED 2018": 11450.23,
+        "High School or GED 2018, Margin": 8149.2,
+        "Hispanic Population 2018": 11525.9,
+        "Hispanic Population 2018, Margin": 9326.55,
+        "Population 2010": 79852.0,
+        "Population 2018": 82122.04,
+        "Population 2018, Margin": 21833.19,
+        "Republican Votes": 10748.52,
+        "Republican Votes SD": 1495.21,
+        "US President 2016 - DEM": 16821.38,
+        "US President 2016 - REP": 11664.49
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.7096,
+        "Reock": 0.6279
+      },
+      "totals": {
+        "Black Population 2018": 6208.06,
+        "Black Population 2018, Margin": 5401.99,
+        "Citizen Voting-Age Population 2018": 57696.08,
+        "Citizen Voting-Age Population 2018, Margin": 9985.08,
+        "Democratic Votes": 12421.28,
+        "Democratic Votes SD": 1559.48,
+        "Democratic Wins": 0.122,
+        "High School or GED 2018": 7680.27,
+        "High School or GED 2018, Margin": 4834.6,
+        "Hispanic Population 2018": 5042.78,
+        "Hispanic Population 2018, Margin": 4372.29,
+        "Population 2010": 72541.0,
+        "Population 2018": 80954.6,
+        "Population 2018, Margin": 14429.13,
+        "Republican Votes": 16108.8,
+        "Republican Votes SD": 1559.48,
+        "US President 2016 - DEM": 9612.73,
+        "US President 2016 - REP": 20453.11
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.4857,
+        "Reock": 0.6216
+      },
+      "totals": {
+        "Black Population 2018": 17301.91,
+        "Black Population 2018, Margin": 10277.27,
+        "Citizen Voting-Age Population 2018": 60056.04,
+        "Citizen Voting-Age Population 2018, Margin": 12888.08,
+        "Democratic Votes": 13992.88,
+        "Democratic Votes SD": 1563.14,
+        "Democratic Wins": 0.455,
+        "High School or GED 2018": 16687.79,
+        "High School or GED 2018, Margin": 8632.04,
+        "Hispanic Population 2018": 6031.68,
+        "Hispanic Population 2018, Margin": 5300.28,
+        "Population 2010": 78656.0,
+        "Population 2018": 81111.11,
+        "Population 2018, Margin": 18630.0,
+        "Republican Votes": 14537.19,
+        "Republican Votes SD": 1563.14,
+        "US President 2016 - DEM": 11529.32,
+        "US President 2016 - REP": 17483.72
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.2476,
+        "Reock": 0.263
+      },
+      "totals": {
+        "Black Population 2018": 2090.95,
+        "Black Population 2018, Margin": 1936.35,
+        "Citizen Voting-Age Population 2018": 58700.76,
+        "Citizen Voting-Age Population 2018, Margin": 8249.55,
+        "Democratic Votes": 9685.28,
+        "Democratic Votes SD": 1854.33,
+        "Democratic Wins": 0.007,
+        "High School or GED 2018": 19043.93,
+        "High School or GED 2018, Margin": 6804.56,
+        "Hispanic Population 2018": 5592.68,
+        "Hispanic Population 2018, Margin": 4275.86,
+        "Population 2010": 75052.0,
+        "Population 2018": 80153.01,
+        "Population 2018, Margin": 11770.94,
+        "Republican Votes": 18844.79,
+        "Republican Votes SD": 1854.33,
+        "US President 2016 - DEM": 6026.93,
+        "US President 2016 - REP": 26502.94
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.2983,
+        "Reock": 0.2826
+      },
+      "totals": {
+        "Black Population 2018": 14497.57,
+        "Black Population 2018, Margin": 9783.97,
+        "Citizen Voting-Age Population 2018": 50173.65,
+        "Citizen Voting-Age Population 2018, Margin": 12845.57,
+        "Democratic Votes": 15189.52,
+        "Democratic Votes SD": 1519.25,
+        "Democratic Wins": 0.724,
+        "High School or GED 2018": 18222.94,
+        "High School or GED 2018, Margin": 9840.56,
+        "Hispanic Population 2018": 25458.98,
+        "Hispanic Population 2018, Margin": 15305.31,
+        "Population 2010": 73691.0,
+        "Population 2018": 82704.28,
+        "Population 2018, Margin": 22492.93,
+        "Republican Votes": 13340.55,
+        "Republican Votes SD": 1519.25,
+        "US President 2016 - DEM": 8853.03,
+        "US President 2016 - REP": 10181.89
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3626,
+        "Reock": 0.3459
+      },
+      "totals": {
+        "Black Population 2018": 3405.54,
+        "Black Population 2018, Margin": 3028.61,
+        "Citizen Voting-Age Population 2018": 60176.65,
+        "Citizen Voting-Age Population 2018, Margin": 8632.64,
+        "Democratic Votes": 11238.34,
+        "Democratic Votes SD": 1702.68,
+        "Democratic Wins": 0.039,
+        "High School or GED 2018": 14538.85,
+        "High School or GED 2018, Margin": 6265.21,
+        "Hispanic Population 2018": 5994.05,
+        "Hispanic Population 2018, Margin": 4255.75,
+        "Population 2010": 72393.0,
+        "Population 2018": 82608.12,
+        "Population 2018, Margin": 12179.2,
+        "Republican Votes": 17291.74,
+        "Republican Votes SD": 1702.67,
+        "US President 2016 - DEM": 8978.69,
+        "US President 2016 - REP": 26451.28
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.423,
+        "Reock": 0.5206
+      },
+      "totals": {
+        "Black Population 2018": 7954.15,
+        "Black Population 2018, Margin": 6402.28,
+        "Citizen Voting-Age Population 2018": 37430.7,
+        "Citizen Voting-Age Population 2018, Margin": 13152.04,
+        "Democratic Votes": 18206.74,
+        "Democratic Votes SD": 1533.26,
+        "Democratic Wins": 0.993,
+        "High School or GED 2018": 13319.24,
+        "High School or GED 2018, Margin": 8644.99,
+        "Hispanic Population 2018": 46800.44,
+        "Hispanic Population 2018, Margin": 21253.56,
+        "Population 2010": 78024.0,
+        "Population 2018": 80223.86,
+        "Population 2018, Margin": 25919.81,
+        "Republican Votes": 10323.34,
+        "Republican Votes SD": 1533.26,
+        "US President 2016 - DEM": 6756.58,
+        "US President 2016 - REP": 4298.64
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.5502,
+        "Reock": 0.59
+      },
+      "totals": {
+        "Black Population 2018": 14071.55,
+        "Black Population 2018, Margin": 9380.67,
+        "Citizen Voting-Age Population 2018": 60420.0,
+        "Citizen Voting-Age Population 2018, Margin": 12266.31,
+        "Democratic Votes": 14315.07,
+        "Democratic Votes SD": 1554.65,
+        "Democratic Wins": 0.495,
+        "High School or GED 2018": 11502.71,
+        "High School or GED 2018, Margin": 7281.49,
+        "Hispanic Population 2018": 5365.32,
+        "Hispanic Population 2018, Margin": 5123.14,
+        "Population 2010": 75942.0,
+        "Population 2018": 81988.47,
+        "Population 2018, Margin": 17652.37,
+        "Republican Votes": 14215.0,
+        "Republican Votes SD": 1554.65,
+        "US President 2016 - DEM": 13371.68,
+        "US President 2016 - REP": 18911.0
+      }
+    },
+    {
+      "compactness": {
+        "Polsby-Popper": 0.3925,
+        "Reock": 0.4291
+      },
+      "totals": {
+        "Black Population 2018": 45298.49,
+        "Black Population 2018, Margin": 17914.42,
+        "Citizen Voting-Age Population 2018": 59899.72,
+        "Citizen Voting-Age Population 2018, Margin": 15255.14,
+        "Democratic Votes": 20462.45,
+        "Democratic Votes SD": 1568.93,
+        "Democratic Wins": 1.0,
+        "High School or GED 2018": 16393.3,
+        "High School or GED 2018, Margin": 9892.99,
+        "Hispanic Population 2018": 6414.61,
+        "Hispanic Population 2018, Margin": 6287.68,
+        "Population 2010": 78359.0,
+        "Population 2018": 82917.32,
+        "Population 2018, Margin": 22861.31,
+        "Republican Votes": 8067.62,
+        "Republican Votes SD": 1568.93,
+        "US President 2016 - DEM": 20581.51,
+        "US President 2016 - REP": 7655.59
+      }
+    }
+  ],
+  "geometry_key": "uploads/20210427T184121.873422509Z/geometry.json",
+  "id": "20210427T184121.873422509Z",
+  "incumbents": [
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O"
+  ],
+  "key": "uploads/20210427T184121.873422509Z/upload/plan.geojson",
+  "message": "Finished scoring this plan.",
+  "model": {
+    "house": "statesenate",
+    "incumbency": true,
+    "key_prefix": "data/OK/001-tilesdir",
+    "seats": 48,
+    "state": "OK",
+    "version": "2020"
+  },
+  "progress": [
+    159,
+    159
+  ],
+  "start_time": 1619548881.675805,
+  "status": true,
+  "summary": {
+    "Efficiency Gap": -0.1247,
+    "Efficiency Gap +1 Dem": -0.1235,
+    "Efficiency Gap +1 Dem SD": 0.0447,
+    "Efficiency Gap +1 Rep": -0.1259,
+    "Efficiency Gap +1 Rep SD": 0.0435,
+    "Efficiency Gap +2 Dem": -0.1187,
+    "Efficiency Gap +2 Dem SD": 0.0459,
+    "Efficiency Gap +2 Rep": -0.1251,
+    "Efficiency Gap +2 Rep SD": 0.0426,
+    "Efficiency Gap +3 Dem": -0.1131,
+    "Efficiency Gap +3 Dem SD": 0.0485,
+    "Efficiency Gap +3 Rep": -0.1223,
+    "Efficiency Gap +3 Rep SD": 0.0427,
+    "Efficiency Gap +4 Dem": -0.1055,
+    "Efficiency Gap +4 Dem SD": 0.0539,
+    "Efficiency Gap +4 Rep": -0.1162,
+    "Efficiency Gap +4 Rep SD": 0.044,
+    "Efficiency Gap +5 Dem": -0.0954,
+    "Efficiency Gap +5 Dem SD": 0.0605,
+    "Efficiency Gap +5 Rep": -0.1104,
+    "Efficiency Gap +5 Rep SD": 0.045,
+    "Efficiency Gap Positives": 0.01,
+    "Efficiency Gap SD": 0.044,
+    "Mean-Median": -0.0247,
+    "Mean-Median Positives": 0.003,
+    "Mean-Median SD": 0.0102,
+    "Partisan Bias": -0.0946,
+    "Partisan Bias Positives": 0.005,
+    "Partisan Bias SD": 0.0375
+  }
+}
