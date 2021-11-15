@@ -1,5 +1,6 @@
 import sys
 import time
+import json
 import argparse
 import requests
 
@@ -11,27 +12,36 @@ parser.add_argument("output_index", help="Path for output index JSON file")
 parser.add_argument("--endpoint-url", help="Endpoint URL", default="api.planscore.org")
 
 
-def main():
-    args = parser.parse_args()
-
-    with open(args.input_source, "rb") as file1:
+def upload_geojson(endpoint_url, api_key, input_source):
+    """Submit GeoJSON content in the named file to PlanScore API"""
+    with open(input_source, "rb") as file1:
         posted = requests.post(
-            f"https://{args.endpoint_url}/api-upload",
+            f"https://{endpoint_url}/api-upload",
             data=file1,
             headers={
-                "Authorization": f"Bearer {args.api_key}",
+                "Authorization": f"Bearer {api_key}",
             },
         )
 
         if posted.status_code != 200:
             print(posted.json(), file=sys.stderr)
             raise RuntimeError(
-                f"Bad status response from {args.endpoint_url}: {posted.status_code}"
+                f"Bad status response from {endpoint_url}: {posted.status_code}"
             )
             exit(1)
 
         index_url = posted.json()["index_url"]
         plan_url = posted.json()["plan_url"]
+
+    return index_url, plan_url
+
+
+def main():
+    args = parser.parse_args()
+
+    index_url, plan_url = upload_geojson(
+        args.endpoint_url, args.api_key, args.input_source
+    )
 
     start_time = time.time()
 

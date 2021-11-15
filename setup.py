@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="PlanScore-CLI",
-    version="0.2.0",
+    version="0.2.1",
     url="https://github.com/PlanScore/PlanScore-CLI",
     author="Michal Migurski",
     description="",
